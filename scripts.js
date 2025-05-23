@@ -1,5 +1,2 @@
-let price =(350){
-    
-    console.log(price);
-}
+let price = 350
     
